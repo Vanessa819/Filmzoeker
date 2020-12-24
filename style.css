@@ -1,0 +1,38 @@
+body {
+  font-family: Poppins;
+  font-size: 16px;
+  background-color: black;
+  color: lightblue;
+}
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  padding: 10px;
+  text-align: center;
+}
+nav {
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+main {
+  min-height: 800px;
+  border-radius: 5px;
+}
+
+ul {
+  list-style: none;
+}
+li {
+  display: inline;
+}
+img {
+  height: 300px;
+  width: 200px;
+  overflow: hidden;
+  margin: 8px;
+  border-radius: 5px;
+}
